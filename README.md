@@ -1,10 +1,10 @@
-Структура проекта travel-agency-frontend полностью соответствует современному React+Vite+Supabase стеку для travel-сайта.
+Структура проекта travel-agency-frontend полностью соответствует современному React+Vite+Supabase стеку для сайта турагенства.
 
 # Thai Guru 🌍✈️
 
 Современный многоязычный фронтенд туристического агентства на **React 18 + TypeScript + Vite**. Интеграция с **Supabase**, чат-бот, виджет погоды, WhatsApp/Telegram. Полностью адаптивный дизайн с **Tailwind CSS**.
 
-![Travel Agency](https://iili.io/BERWVe9.md.jpg)
+![Travel Agency](https://iili.io/BERp6jS.md.jpg)
 ![Travel Agency](https://iili.io/BEAUqjp.md.jpg)
 
 ## ✨ Основные возможности
