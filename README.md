@@ -1,6 +1,5 @@
 Структура проекта travel-agency-frontend полностью соответствует современному React+Vite+Supabase стеку для travel-сайта.
 
-```markdown
 # Travel Agency Thai Guru 🌍✈️
 
 Современный многоязычный фронтенд туристического агентства на **React 18 + TypeScript + Vite**. Интеграция с **Supabase**, чат-бот, виджет погоды, WhatsApp/Telegram. Полностью адаптивный дизайн с **Tailwind CSS**.
@@ -69,7 +68,6 @@ MIT - используй для своих travel-проектов!
 ---
 
 **⭐ Fork & star если полезно!**
-```
 
 Эта структура показывает **профессиональный enterprise-уровень**: Supabase Edge Functions, AI чат-бот, полная локализация, продвинутые фильтры услуг. 
 
